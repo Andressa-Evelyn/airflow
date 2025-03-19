@@ -19,7 +19,7 @@ with DAG(
 
     def extrai_dados(data_interval_end):  
         city = 'Itaitinga'
-        key = 'G2LHDLNP3KULXTGQ2SJ75FDMD'
+        key = 'X'
 
         start_date = data_interval_end
         end_date = ds_add(data_interval_end, 7)
